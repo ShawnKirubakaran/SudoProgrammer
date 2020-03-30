@@ -3,7 +3,7 @@ A Pseudo English to Java Translator
 
 ![alt text](https://i.imgur.com/Egf7C0y.png "Sudo Programmer Client")
 
-# H1 Reference Documents
+# Reference Documents
 | Symbols        | Symbol Meaning           | Functions  |
 | ------------- |:-------------:| -----:|
 |“”	|Double quotes	|Used to mention the name of an entity.|
@@ -19,7 +19,7 @@ A Pseudo English to Java Translator
 * To create a new session or to quickly empty the text containers on the client simply press CTRL + R to reset the program.
 * This program is capable of translating pseudo English code into Java code
 
-# H1 Tutorial Documents
+# Tutorial Documents
 | Functionality / User Intention        | User Input           | Program Output  |
 | ------------- |:-------------:| -----:|		
 |Creating a class called DemoClass and make it accessible from every other part of the project. |	Create a new class called "DemoClass" with a visibility of public	|public class DemoClass {}|
@@ -31,7 +31,7 @@ A Pseudo English to Java Translator
 |Creating a new variable and assigning its value to by referencing another already existing value in the program.	|make a string variable, call it "myName" and set its value to '#name'	|String myName = name;|
 
 
-# H1 Application Functionality
+# Application Functionality
  
 | Functionality | Status  |
 | ------------- |:-------------:|		
